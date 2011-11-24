@@ -27,7 +27,7 @@ Transform /^((?:\d{1,2}[\/-]){2}(?:\d\d){1,2})?\s*(\w{3})?\s*(\d{1,2}:\d{2}\s*(?
 end
 
 Given /^that (#{CUSTOMER}) is a valid customer$/ do |customer|
-  pending "Customer #{customer} validation"  
+  pending "Customer #{customer} validation"
 end
 
 #
@@ -46,7 +46,7 @@ When /^the customer logs out$/ do
   pending
 end
 
-Then /^I expect the customer to be shown the logout page$/ do 
+Then /^I expect the customer to be shown the logout page$/ do
   pending
 end
 
