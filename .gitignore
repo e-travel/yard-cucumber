@@ -4,3 +4,7 @@
 # Documents folder
 doc
 .yardoc
+
+# IDE
+*.iml
+idea
